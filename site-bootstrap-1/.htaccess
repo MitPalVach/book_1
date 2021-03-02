@@ -1,0 +1,9 @@
+addDefaultCharset UTF-8
+
+#RewriteRule ^about?$ about.php [NC, L]  //  это для выгрузки на хостинг
+#RewriteRule ^404?$ 404.php [NC, L]  //  это для выгрузки на хостинг
+
+ErrorDocument 404 /404.php
+
+
+

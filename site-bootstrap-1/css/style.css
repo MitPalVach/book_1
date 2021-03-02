@@ -1,0 +1,37 @@
+@media (min-width: 768px) {
+    .me-md-auto {
+        margin-right: auto !important;
+    }
+}
+
+.card {
+    width: 32%;
+    margin-left: 1%;
+}
+
+.image_thumbnail {
+    width: 313px;
+}
+
+.form-control {
+    margin: 20px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
